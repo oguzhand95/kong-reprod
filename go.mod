@@ -3,7 +3,7 @@ module github.com/oguzhand95/kong-reprod
 go 1.23.2
 
 require (
-	github.com/alecthomas/kong v1.4.0
+	github.com/alecthomas/kong v1.5.0
 	github.com/jwalton/go-supportscolor v1.2.0
 	github.com/stretchr/testify v1.10.0
 )
